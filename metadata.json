@@ -1,0 +1,5 @@
+{
+  "name": "Kuntien Väestökehitys Dashboard",
+  "description": "Interaktiivinen dashboard Halsuan, Kaustisen, Toholammin, Lestijärven ja Vetelin väestökehityksen seurantaan vuodesta 2020 eteenpäin.",
+  "requestFramePermissions": []
+}
